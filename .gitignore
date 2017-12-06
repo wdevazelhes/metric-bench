@@ -1,0 +1,7 @@
+benchmarks/results
+benchmarks/results/*
+*.idea
+__pycache__
+*.cache
+*.ipynb_checkpoints
+*.swp
